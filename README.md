@@ -1,1 +1,1 @@
-# Eagle-Cross-modal
+# Self-supervised
